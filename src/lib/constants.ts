@@ -4,6 +4,7 @@ const constants = {
 
 const queryKeys = {
 	USERS: "USERS",
+	HEALTH_CHECK: "HEALTH_CHECK",
 };
 
 export { constants, queryKeys };
